@@ -1,0 +1,54 @@
+
+ 
+\begin{table}\caption{Series classification}\label{tab:serclass}\begin{center}\begin{tabular}{|*{3}{l}|} \hline \hline 
+$S_i=1$ & $S_i=2$& $S_i=3$ \\ 
+$\rho$=NaN & $\rho$=NaN& $\rho$=NaN \\ \hline 
+YER     &EEN     &TOT      \\ 
+PCR     &QTAUF   &USD      \\ 
+ITR     &QTEXPA  &HICP     \\ 
+GCR     &QTLAG   &HICP_FO  \\ 
+MTR     &QTPR    &HICP_UF  \\ 
+XTR     &QTPRO   &HICP_G   \\ 
+TLIARG86&QTBAUF  &HICP_IG  \\ 
+TLIANG86&QTBPR   &HICP_GX  \\ 
+GHPIOS  &QTBBGL  &HICP_XA  \\ 
+EXPG    &QTBAGL  &HICP_XE  \\ 
+EXP7    &KTPROL  &HICP_XG  \\ 
+EXP8    &KTAUF   &VPIG86   \\ 
+IMPG    &KTAUSL  &VPI_WOH8 \\ 
+IMP6    &KTLAG   &TLIG86   \\ 
+IMP7    &KTPRON  &GHPIGG   \\ 
+EXP_US  &KTVPN   &GHPIGL   \\ 
+EXP_EU  &BAUVPN  &GHPIKONG \\ 
+EXP_DE  &EECOS   &GHPIINVG \\ 
+IMP_US  &EINDSE  &IMP8     \\ 
+IMP_EU  &EBAUSE  &M2       \\ 
+IMP_DE  &EHANSE  &M3       \\ 
+        &EKONSE  &DowJones \\ 
+        &IFOERW  &YIELD    \\ 
+        &IFOKL   &DCR_HH   \\ 
+        &IFOGL   &DCR_F    \\ 
+        &PMI     &DEBT     \\ 
+        &HICP_PF &DCR      \\ 
+        &HICP_E  &         \\ 
+        &HICP_S  &         \\ 
+        &HICP_XF &         \\ 
+        &GHPIG   &         \\ 
+        &GHPIGK  &         \\ 
+        &GHPIVBG &         \\ 
+        &GHPIINTG&         \\ 
+        &OEL     &         \\ 
+        &EXP6    &         \\ 
+        &ALQNSA  &         \\ 
+        &ALOSM   &         \\ 
+        &ALOSW   &         \\ 
+        &OFST    &         \\ 
+        &STANDR  &         \\ 
+        &INDPROD &         \\ 
+        &ATX     &         \\ 
+        &M1      &         \\ 
+        &DAX     &         \\ 
+        &STI     &         \\ 
+        &SEKMRE  &         \\ 
+        &DCR_G   &         \\ 
+\\ \hline \hline \end{tabular}\end{center}\end{table} 
