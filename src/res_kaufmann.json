@@ -1,0 +1,17 @@
+{
+    "1": [
+        "YER", "PCR", "ITR", "GCR", "MTR", "XTR", "TLIARG86", "TLIANG86", "GHPIOS", "EXPG", "EXP7", "EXP8",
+        "IMPG", "IMP6", "IMP7", "EXP_US", "EXP_EU", "EXP_DE", "IMP_US", "IMP_EU", "IMP_DE"
+    ],
+    "2": [
+        "EEN", "QTAUF", "QTEXPA", "QTLAG", "QTPR", "QTPRO", "QTBAUF", "QTBPR", "QTBBGL", "QTBAGL", "KTPROL", "KTAUF",
+        "KTAUSL", "KTLAG", "KTPRON", "KTVPN", "BAUVPN", "EECOS", "EINDSE", "EBAUSE", "EHANSE", "EKONSE", "IFOERW",
+        "IFOKL", "IFOGL", "PMI", "HICP_PF", "HICP_E", "HICP_S", "HICP_XF", "GHPIG", "GHPIGK", "GHPIVBG", "GHPIINTG",
+        "OEL", "EXP6", "ALQNSA", "ALOSM", "ALOSW", "OFST", "STANDR", "INDPROD", "ATX", "M1", "DAX", "STI", "SEKMRE", "DCR_G"
+    ],
+    "3": [
+        "TOT", "USD", "HICP", "HICP_FO", "HICP_UF", "HICP_G", "HICP_IG", "HICP_GX", "HICP_XA", "HICP_XE", "HICP_XG",
+        "VPIG86", "VPI_WOH8", "TLIG86", "GHPIGG", "GHPIGL", "GHPIKONG", "GHPIINVG", "IMP8", "M2", "M3", "DowJones",
+        "YIELD", "DCR_HH", "DCR_F", "DEBT", "DCR"
+    ]
+}

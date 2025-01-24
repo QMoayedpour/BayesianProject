@@ -1,0 +1,26 @@
+{
+    "out_cols": [
+        "HICP-FO",
+        "HICP-PF",
+        "HICP-UF",
+        "HICP-G",
+        "HICP-IG",
+        "HICP-GX",
+        "HICP-E",
+        "HICP-S",
+        "HICP-XA",
+        "HICP-XE",
+        "HICP-XF",
+        "HICP-XG",
+        "VPI-WOH8",
+        "EXP-US",
+        "EXP-EU",
+        "EXP-DE",
+        "IMP-US",
+        "IMP-EU",
+        "IMP-DE",
+        "DCR-HH",
+        "DCR-F",
+        "DCR-G"
+    ]
+}
