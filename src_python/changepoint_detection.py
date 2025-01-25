@@ -15,7 +15,7 @@ import ruptures as rpt
 
 class ASTRIDE_transf:
 
-    def __init__(self, X_train,  num_segments, alphabet_size, X_test = None, pen_factor = None, mean_or_slope = 'mean'):
+    def __init__(self, X_train,  num_segments, alphabet_size, X_test=None, pen_factor=None, mean_or_slope='mean'):
         self.X_train = X_train
         self.X_test = X_test
         self.num_segments = num_segments
